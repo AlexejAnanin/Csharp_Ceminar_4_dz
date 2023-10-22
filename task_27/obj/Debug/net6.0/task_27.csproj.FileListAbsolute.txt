@@ -1,0 +1,15 @@
+C:\Users\Граф\GeekBrains\C sharp\Практика\ДЗ к Семинарам\Семинар 4 ДЗ\tasks\task_27\obj\Debug\net6.0\task_27.csproj.AssemblyReference.cache
+C:\Users\Граф\GeekBrains\C sharp\Практика\ДЗ к Семинарам\Семинар 4 ДЗ\tasks\task_27\obj\Debug\net6.0\task_27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Граф\GeekBrains\C sharp\Практика\ДЗ к Семинарам\Семинар 4 ДЗ\tasks\task_27\obj\Debug\net6.0\task_27.AssemblyInfoInputs.cache
+C:\Users\Граф\GeekBrains\C sharp\Практика\ДЗ к Семинарам\Семинар 4 ДЗ\tasks\task_27\obj\Debug\net6.0\task_27.AssemblyInfo.cs
+C:\Users\Граф\GeekBrains\C sharp\Практика\ДЗ к Семинарам\Семинар 4 ДЗ\tasks\task_27\obj\Debug\net6.0\task_27.csproj.CoreCompileInputs.cache
+C:\Users\Граф\GeekBrains\C sharp\Практика\ДЗ к Семинарам\Семинар 4 ДЗ\tasks\task_27\bin\Debug\net6.0\task_27.exe
+C:\Users\Граф\GeekBrains\C sharp\Практика\ДЗ к Семинарам\Семинар 4 ДЗ\tasks\task_27\bin\Debug\net6.0\task_27.deps.json
+C:\Users\Граф\GeekBrains\C sharp\Практика\ДЗ к Семинарам\Семинар 4 ДЗ\tasks\task_27\bin\Debug\net6.0\task_27.runtimeconfig.json
+C:\Users\Граф\GeekBrains\C sharp\Практика\ДЗ к Семинарам\Семинар 4 ДЗ\tasks\task_27\bin\Debug\net6.0\task_27.dll
+C:\Users\Граф\GeekBrains\C sharp\Практика\ДЗ к Семинарам\Семинар 4 ДЗ\tasks\task_27\bin\Debug\net6.0\task_27.pdb
+C:\Users\Граф\GeekBrains\C sharp\Практика\ДЗ к Семинарам\Семинар 4 ДЗ\tasks\task_27\obj\Debug\net6.0\task_27.dll
+C:\Users\Граф\GeekBrains\C sharp\Практика\ДЗ к Семинарам\Семинар 4 ДЗ\tasks\task_27\obj\Debug\net6.0\refint\task_27.dll
+C:\Users\Граф\GeekBrains\C sharp\Практика\ДЗ к Семинарам\Семинар 4 ДЗ\tasks\task_27\obj\Debug\net6.0\task_27.pdb
+C:\Users\Граф\GeekBrains\C sharp\Практика\ДЗ к Семинарам\Семинар 4 ДЗ\tasks\task_27\obj\Debug\net6.0\task_27.genruntimeconfig.cache
+C:\Users\Граф\GeekBrains\C sharp\Практика\ДЗ к Семинарам\Семинар 4 ДЗ\tasks\task_27\obj\Debug\net6.0\ref\task_27.dll
